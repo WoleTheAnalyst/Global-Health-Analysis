@@ -7,6 +7,17 @@ This project presents a comprehensive, data-driven analysis of global health ind
 
 ---
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Insights](#data-insights)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+
 ##  Project Overview
 
 The objective of this study is to uncover patterns and disparities in global health outcomes and infrastructure over a 25-year period. The analysis is segmented by regions and focuses on understanding the impact of disease burden, access to care, and urbanization on recovery and mortality.
@@ -48,7 +59,7 @@ The objective of this study is to uncover patterns and disparities in global hea
 
 ---
 
-##  Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis
 
 - Recovery and mortality trend analysis by 5-year intervals.
 - Bubble plots for disease incidence vs. DALY burden.
@@ -57,7 +68,7 @@ The objective of this study is to uncover patterns and disparities in global hea
 
 ---
 
-##  Data Analysis & Insights
+##  Data Insights
 
 - **Recovery Rate:** Averaged 74.5%; surges noted in 2000–2005 and 2011–2015.
 - **Mortality Rate:** Gradual rise from 5.0% to 5.1% despite increased access.
