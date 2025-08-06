@@ -21,6 +21,7 @@ This project presents a comprehensive, data-driven analysis of global health ind
 ##  Project Overview
 
 The objective of this study is to uncover patterns and disparities in global health outcomes and infrastructure over a 25-year period. The analysis is segmented by regions and focuses on understanding the impact of disease burden, access to care, and urbanization on recovery and mortality.
+![WhatsApp Image 2025-08-05 at 18 10 52_9f4d3ec7](https://github.com/user-attachments/assets/a4317a99-c6f2-410b-857b-9534ae522d50)
 
 ---
 
